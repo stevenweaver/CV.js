@@ -1,0 +1,226 @@
+{
+  "Research Interests": [
+    {
+      "text": "Computational biology"
+    },
+    {
+      "text": "Viral pathogen evolution"
+    },
+    {
+      "text": "Next generation sequencing analysis"
+    },
+    {
+      "text": "Scientific and biomedical software"
+    },
+    {
+      "text": "Algorithms and methods development"
+    },
+    {
+      "text": "Molecular epidemiology"
+    },
+    {
+      "text": "Translational research"
+    }
+  ],
+
+  "Contact Information": [
+    {
+      "text": "Department of Biology"
+    },
+    {
+      "text": "Institute for Genomics and Evolutionary Medicine"
+    },
+    {
+      "text": "Temple University"
+    },
+    {
+      "text": "1925 N 12th Street"
+    },
+    {
+      "text": "Philadelphia, PA 19122-1801"
+    }
+  ],
+
+  "Links": [
+    {
+      "url": "mailto:#",
+      "link-text": "sweaver@temple.edu",
+      "print-text": "sweaver@temple.edu",
+      "type": "e-mail"
+    },
+    {
+      "url": "http://stevenweaver.org",
+      "link-text": "http://stevenweaver.org",
+      "print-text": "http://stevenweaver.org",
+      "type": "home"
+    },
+    {
+      "url": "https://github.com/stevenweaver",
+      "link-text": "github.com/stevenweaver",
+      "print-text": "github.com/stevenweaver",
+      "type": "GitHub"
+    },
+    {
+      "url": "https://twitter.com/stvnwvr",
+      "link-text": "@stvnwvr",
+      "print-text": "@stvnwvr",
+      "type": "Twitter"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=A2ImcaUAAAAJ&hl=en",
+      "link-text": "Google Scholar",
+      "print-text": "Steven Weaver @ Google Scholar",
+      "type": "papers"
+    },
+    {
+      "url": "https://www.webofscience.com/wos/author/record/AAO-7881-2020",
+      "link-text": "Researcher ID",
+      "print-text": "Researcher ID AAO-7881-2020",
+      "type": "papers"
+    }
+  ],
+
+  "Positions Held": {
+    "rows": [
+      [
+        "2016-",
+        {
+          "text": "Senior Programming Analyst",
+          "subtext": {
+            "url": "http://igem.temple.edu",
+            "link-text": "Institute for Genomics and Evolutionary Medicine, Temple University"
+          }
+        }
+      ],
+      [
+        "2011-2015",
+        {
+          "text": "Programmer Analyst",
+          "subtext": {
+            "url": "http://med.ucsd.edu",
+            "link-text": "Department of Medicine, University of California San Diego"
+          }
+        }
+      ],
+      [
+        "2007-2009",
+        {
+          "text": "Associate Software Engineer",
+          "subtext": "Veoh Networks"
+        }
+      ]
+    ]
+  },
+
+  "Education": {
+    "rows": [
+      [
+        "2018-2024",
+        {
+          "text": "Ph.D., Bioinformatics",
+          "subtext": {
+            "url": "https://phdbioinform.cst.temple.edu/",
+            "link-text": "Temple University"
+          }
+        }
+      ],
+      [
+        "2016-2018",
+        {
+          "text": "P.S.M., Bioinformatics",
+          "subtext": {
+            "url": "https://www.temple.edu/academics/degree-programs/bioinformatics-psm-st-binf-psm",
+            "link-text": "Temple University"
+          }
+        }
+      ],
+      [
+        "2007-2010",
+        {
+          "text": "Bachelor of Applied Arts and Sciences, Computer Engineering",
+          "subtext": {
+            "url": "https://www.sdsu.edu/",
+            "link-text": "San Diego State University"
+          }
+        }
+      ]
+    ]
+  },
+
+  "Professional Activities": {
+    "rows": [
+      [
+        "2023-present",
+        {
+          "url": "https://midasnetwork.us/about/#steering-committee",
+          "link-text": "Steering Committee Member, MIDAS"
+        }
+      ],
+      [
+        "2016-2018",
+        {
+          "url": "https://www.hpc.temple.edu/",
+          "link-text": "High Performance Computing Subcommittee, Temple University"
+        }
+      ]    
+
+    ]
+  },
+
+  "Workshops": {
+    "rows": [
+      [
+        "2018",
+        {
+          "url": "https://smbe.org/smbe/SMBE2018Meeting/",
+          "link-text": "Society for Molecular Biology and Evolution 2018"
+        },
+        "Tokyo, Japan"
+      ]    
+    ]
+  },
+
+"Publications": {
+    "subtext": " ~7,697 total citations, h-index 22 (per Google Scholar), weighted RCR of 523.76 (per NIH iCite)",
+    "highlight": ["Weaver S"],
+    "bibtex": "data/sweaver.bib"
+  },
+  "Software Projects": {
+    "subtext": "For the complete list, see github.com/stevenweaver and github.com/veg",
+    "rows": [
+      [
+        {
+          "url": "http://hyphy.org",
+          "link-text": "HyPhy",
+          "print-text": "HyPhy (hyphy.org)"
+        },
+        {
+          "text": "Hypothesis testing using phylogenies",
+          "subtext": "A molecular evolution and statistical inference package with >10000 registered users and ~2500 citations"
+        }
+      ],
+      [
+        {
+          "url": "http://www.datamonkey.org",
+          "link-text": "Datamonkey",
+          "print-text": "Datamonkey (www.datamonkey.org)"
+        },
+        {
+          "text": "Datamonkey sequence analysis server",
+          "subtext": "A comprehensive and efficient suite of methods aimed at finding adaptive and purifying selection acting on coding sequences as well as uncovering evidence of recombination in the evolutionary past of the sample (~500000 processed analyses and ~1000 citations)"
+        }
+      ],
+      [
+        {
+          "url": "http://www.hivtrace.org",
+          "link-text": "HIV-TRACE",
+          "print-text": "HIV-TRACE (www.hivtrace.org)"
+        },
+        {
+          "text": "HIV Transmission Cluster Engine",
+          "subtext": "A web applications and software library for high throughput molecular epidemiology surveillance of HIV and other pathogens. Currently in use by the CDC and many other public health and research entities."
+        }
+      ]
+    ]
+  }
+}
