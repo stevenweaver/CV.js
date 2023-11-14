@@ -51,18 +51,18 @@ function handle_entry_object(d, container) {
         
         //<div class='altmetric-embed' data-badge-type='donut' data- doi="10.1038/nature.2012.9872"></div>
         
-        if ("altmetric" in d) {
-            containerd3.append("div").classed ("altmetric-embed no-print", true).attr ("data-badge-type", "donut").attr ("data-doi", d["altmetric"]).attr ("data-hide-no-mentions", "true");
-        }
+        //if ("altmetric" in d) {
+        //    containerd3.append("div").classed ("altmetric-embed no-print", true).attr ("data-badge-type", "donut").attr ("data-doi", d["altmetric"]).attr ("data-hide-no-mentions", "true");
+        //}
         
         
         
         // <span class="__dimensions_badge_embed__" data-doi="10.1001/jama.2016.9797"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
         
-        if ("dimensions" in d) {
-             containerd3.append("span").classed ("__dimensions_badge_embed__ no-print", true).attr ("data-doi", d["dimensions"]).attr ("data-style","small_circle");
-             containerd3.append("script").attr ("async","true").attr("src","https://badge.dimensions.ai/badge.js");       
-        }
+        //if ("dimensions" in d) {
+        //     containerd3.append("span").classed ("__dimensions_badge_embed__ no-print", true).attr ("data-doi", d["dimensions"]).attr ("data-style","small_circle");
+        //     containerd3.append("script").attr ("async","true").attr("src","https://badge.dimensions.ai/badge.js");       
+        //}
         
         if ("plumx" in d) {
             // <a href="https://plu.mx/plum/a/?doi=10.1371%2Fjournal.ppat.1005531" data-popup="right" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">
